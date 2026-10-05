@@ -4,7 +4,6 @@
 
 . **Nome:** Gabriel Ribeiro dos Santos
 
-. **CPF:** 538.719.308 - 65
 
 Este README detalha a análise exploratória realizada nos dados de um e-commerce para o processo seletivo de estágio em dados no Itaú. A análise cobre diversos aspectos dos dados, respondendo a perguntas específicas sobre vendas, categorias de produtos, fontes de tráfego e características dos clientes.
 
